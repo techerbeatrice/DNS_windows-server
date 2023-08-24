@@ -6,3 +6,12 @@
 
 ![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/3b98aa98-7af1-4206-8a85-69e9280e6807)
 
+Suivre l'assistant nouvelle zone, cliquer sur suivant, sélectionner zone principale, renseigner le nom de la zone principale.
+
+![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/d4f12ef5-93bb-403d-9f98-16e80c3263af)
+
+Renseigner la partie zone de recherche inversée.
+
+
+
+
