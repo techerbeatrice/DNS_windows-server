@@ -8,7 +8,7 @@
 #### Test
 ***
 
-✔ Après avoir relié par **câble RJ45**, une **machine cliente** qui héberge un **site web** à un **switch** et **une autre machine** qui héberge **DNS sur windows server** au même **switch**, configurer les deux machines sur **Accès par pont**  :
+✔ Après avoir relié par **câbles RJ45**, une **machine cliente** qui héberge un **site web** à un **switch** et **une autre machine** qui héberge **DNS sur windows server** au même **switch**, configurer les deux machines sur **Accès par pont**  :
 
 ![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/9e2ea9c0-7c6e-4d24-99b7-bfe821942998)
 
@@ -35,9 +35,9 @@
 
 ✔ Renseigner également la partie zone de **recherche inversée** en renseignant l'**ID Réseau** qui dans ce cas, n'enregistre que les 3 premiers octets :
 
-***
-
 ![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/aa60d0d3-78bd-4e37-a73b-e4dc0881ef1d)
+
+***
 
 ✔ Clic-droit sur **"wilders.lan"** ---> Clic droit **Nouvel hôte A** ---> Remplir la fenêtre **Nouvel hôte** en renseignant l'adresse IP attribuée à la machine cliente et valider.
 
