@@ -41,7 +41,7 @@
 
 ✔ Clic-droit sur **"wilders.lan"** ---> Clic droit **Nouvel hôte A** ---> Remplir la fenêtre **Nouvel hôte** en renseignant l'adresse IP attribuée à la machine cliente et valider.
 
-![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/972eef3d-87a8-4338-8d05-f7cebbcfc24b)
+![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/12359e72-a405-4f4d-9f9f-01328ed77c69)
 
 ***
 
@@ -52,7 +52,7 @@
 ***
 ✔ Test depuis le serveur :
 
-![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/91a42a42-2748-4665-bac6-d0f28fb32306)
+![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/cc82df89-36fd-47f2-8b09-ae2d304581c8)
 
 ![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/c63835d1-75fc-4886-9eef-dbdc374e4ac1)
 
