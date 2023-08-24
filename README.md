@@ -1,6 +1,7 @@
 # DNS sur windows server : installation, configuration et test
 
 #### Les étapes :
+#### Branchement de la machine-cliente et la machine-serveur sur le même switch et configuration sur le réseau par pont
 #### Installation du rôle DNS
 #### Configuration de la zone "wilders.lan"
 #### Ajout d'enregistrements A et CNAME
