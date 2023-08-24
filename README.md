@@ -45,7 +45,7 @@
 
 ***
 
-✔ Clic droit sur **"wilders.lan"** ---> **Nouvel Alias CNAME** ---> Parcourir ---> Double-clic sur **SRV-DHCP** ---> Double-clic sur **zones de recherche directes** ---> Double-clic sur **wilders.lan** ---> Sélectionner **Projet2 hôte A** ---> **ok**.
+✔ Clic droit sur **"wilders.lan"** ---> **Nouvel Alias CNAME** ---> Remplir la fenêtre **Nouvel enregistrement de ressource** ---> Parcourir ---> Double-clic sur **SRV-DHCP** ---> Double-clic sur **zones de recherche directes** ---> Double-clic sur **wilders.lan** ---> Sélectionner **Projet2 hôte A** ---> **ok**.
 
 ![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/09adcebd-45a2-4567-af01-96f49f367fb8)
 
