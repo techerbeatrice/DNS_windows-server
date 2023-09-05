@@ -64,6 +64,8 @@ ______
 
 ![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/09adcebd-45a2-4567-af01-96f49f367fb8)
 
+![image](https://github.com/techerbeatrice/DNS_windows-server/assets/138071140/4671eee6-6fd2-493c-8b64-4b177c3db722)
+
 ***
 ✔ Test depuis le serveur :
 
