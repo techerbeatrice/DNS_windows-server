@@ -1,5 +1,20 @@
 # DNS sur windows server : installation, configuration et test
 
+_____
+
+Sur un Windows Server déployé sur une VM, l'idéal étant de reprendre celui utilisé pour DHCP   
+Pense à faire un clone de ta machine (Snapshot) pour avoir un backup, en cas où tu ferais une mauvaise configuration qui rendrait ta machine inutilisable   
+•	Mettre en place le service DNS sur le serveur*    
+•	Ce serveur fera autorité sur la zone wilders.lan    
+•	Enregistre les champs A pour ce serveur et pour la machine ayant une réservation IP fixe    
+•	Ajoute un CNAME pour ton serveur. Il pourrait par exemple aussi s'appeler dns.wilders.lan    
+•	Test maintenant que tout fonctionne correctement sur le serveur mais aussi sur une machine client    
+•	Poste une procédure permettant pas à pas d'obtenir cette configuration ainsi que les tests associés    
+•	Il est possible de faire une résolution de nom et une résolution inverse depuis le serveur et depuis une machine du réseau    
+•	Le serveur est bien joignable via 2 noms distincts    
+•	La procédure est claire et permet effectivement lorsqu'elle est appliquée de répondre aux critères du challenge    
+______
+
 #### Les étapes :
 #### Branchement de la machine-cliente et la machine-serveur sur le même switch et configuration des 2 machines sur le réseau Accès par pont
 #### Installation du rôle DNS
